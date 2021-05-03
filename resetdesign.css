@@ -1,0 +1,58 @@
+body {
+	background:#ffaa80;
+	width: 90%;
+}
+
+
+.a2 {
+	width: 30%;
+	height: 50%;
+	margin-top: 10%;
+	margin-left:40%;
+	background: #ffcc99;
+	border:1px solid black;
+
+	
+}
+h1 {
+	text-align: center;
+}
+.msg {
+	
+	margin-left:30%;
+	margin-bottom: 5%;
+	
+}
+.msg1 {
+	
+	margin-left:22%;
+
+	margin-bottom: 5%;
+	
+}
+.input {
+	width:50%;
+	height: 10%;
+	margin-top: 2%;
+	margin-left: 25%;
+}
+.but {
+	width: 50%;
+	height: 10%;
+	margin-top: 5%;
+	margin-left: 25%;
+}
+ button {
+  border-radius: 30px;
+  width:40%;
+  height: 40px;
+  color:#0066FF;
+  border:2px solid #0066FF;
+  outline:none;
+  font-size: 120%;
+  font-family: calibri;
+  background-color:transparent;
+}
+button:active{
+  transform:scale(1.1);
+}

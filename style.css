@@ -1,0 +1,46 @@
+body{   
+    background: #CCCCCC;  
+}  
+#frm{  
+    border: 1px solid rgb(255,232,57);  
+    width:30%;
+    height: 500px;  
+    border-radius: 2px;  
+    margin: 80px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+.btn{  
+    color: #fff;  
+    background-color:#3369ff;  
+    float:right;
+    width:30%;
+    height: 30px;
+} 
+.scode{  
+    color: #fff;  
+    background-color:#3369ff;  
+    float:right;
+    width:30%;
+    height: 30px;
+}   
+input {
+    width: 50%;
+    height: 20px;
+    margin:1px;
+    float:right;
+}
+
+label {
+    margin-left:30px;
+    font-size:  19px;
+    padding-bottom: 30px;
+}
+p {
+    float:left;
+}
+.btn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
